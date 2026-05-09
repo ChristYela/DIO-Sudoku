@@ -46,7 +46,7 @@ Certifique-se de estar na raiz do projeto (onde a pasta `src` está localizada).
 3. **Regras do Jogo**: O arquivo `br.com.dio.service.BoardService` é o "cérebro". Ele contém o método `hasConflict` que implementa as regras clássicas de não repetir números em linhas, colunas ou blocos.
 4. **Interface**: `br.com.dio.ui.SudokuUI` gerencia os botões, cores e interações do usuário.
 
-5. 
+
 ## Comparação com o Boilerplate DIO
 
 
