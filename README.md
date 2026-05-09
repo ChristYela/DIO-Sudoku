@@ -33,7 +33,7 @@ Certifique-se de estar na raiz do projeto (onde a pasta `src` está localizada).
 
 ## Comparação com o Boilerplate DIO
 
-O código gerado foi aprimorado em relação ao boilerplate básico:
+
 - **Separação de Camadas**: Modelos, Serviços e UI estão desacoplados.
 - **UI Responsiva**: Utiliza layouts flexíveis (`GridBagLayout`) e estilos modernos.
 - **Validação em Tempo Real**: Diferente de algumas versões que validam apenas ao final, esta destaca conflitos enquanto você joga.
